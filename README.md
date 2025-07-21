@@ -12,7 +12,7 @@ A simple and elegant web-based **Expense Tracker** that allows users to manage i
 - 🌗 Dark mode toggle across all pages
 - 📱 Fully responsive on mobile, tablet, and desktop
 - 💾 Data saved locally in your browser (Local Storage)
-- 🔐 Simple login and logout system (no backend)
+- 🔐 Simple login and logout system (no backend)   
 
 ---
 
