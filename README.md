@@ -19,7 +19,9 @@ A simple and elegant web-based **Expense Tracker** that allows users to manage i
 ## 📁 Folder Structure
 
 plaintext
+
 expense-tracker/
+
 ├── index.html         # Login page
 ├── signup.html        # Signup page
 ├── tracker.html       # Main tracker page
